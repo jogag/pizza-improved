@@ -21,8 +21,7 @@ Everything is released under WTFPL license.
 Mod dependencies
 ----------------
 
-- farming (included in minetest)
-- food (https://github.com/rubenwardy/food)
+- food_basic (https://github.com/rubenwardy/food)
 
 Recommended mods
 ----------------
