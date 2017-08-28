@@ -90,7 +90,7 @@ minetest.register_node("pizza:pizzabox_open", {
 minetest.register_craft({
     type = "shapeless",
     output = "pizza:pizza_dough",
-    recipe = {"farming:flour", "food:cheese", "food:tomato"},
+    recipe = {"group:food_flour", "group:food_cheese", "group:food_tomato"},
 })
 
 minetest.register_craft({
